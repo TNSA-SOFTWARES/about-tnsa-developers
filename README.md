@@ -7,7 +7,7 @@ About Us
 
 
 TNSA is software company based in India 
-Tnsa focuses of devoloping new and powerful Ai and It also crea5es Vfx and Animations
+Tnsa focuses of devoloping new and powerful Ai and It also creates  Vfx and Animations
 
 SITE:https://tnsa-softwares.github.io/home/
 
