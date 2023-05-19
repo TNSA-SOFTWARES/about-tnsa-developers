@@ -17,6 +17,6 @@ Founders:Thishyaketh Abimalla
          
 OUR AI 
 TNSA AXHA 
-A AI BASED VOICE ASSISTANT VESRION 1.6
+A AI BASED VOICE ASSISTANT VESRION 2.0 alpha
 DOWNLOAD AT 
-https://tnsa-softwares.github.io/home/
+https://tnsa-softwares.github.io/axha/
